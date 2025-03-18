@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pankaj08072001&label=Profile%20views&color=0e75b6&style=flat" alt="pankaj08072001" /> </p>
 
-- 🔭 I’m currently working on **ERP (Software)**
-
 - 🌱 I’m currently learning **Java Full Stack**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Pankaj08072001/Pankaj08072001](https://github.com/Pankaj08072001/Pankaj08072001)
